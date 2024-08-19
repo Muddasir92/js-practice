@@ -1,0 +1,30 @@
+.light{
+  background-color: white;
+  color: black;
+}
+.dark{
+  background-color: black;
+  color: white;
+}
+
+
+#header {
+  text-align: center;
+  background-color: #1a82b0;
+  color: white;
+  padding: 10px;
+}
+h3 {
+  background-color: #1a82b0;
+  color: white;
+  padding: 6px;
+}
+
+.paragraph {
+  padding: auto;
+  margin: auto 5% 5% 5%;
+  background-color: #e3ebef;
+}
+.paragraph1{
+  color: rgb(28, 220, 137);
+}
